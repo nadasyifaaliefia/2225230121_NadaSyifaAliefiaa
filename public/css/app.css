@@ -1,0 +1,13 @@
+body    {
+    background-image: url("bg alpro.png");
+    font-family: serif;
+    margin: 90px auto;
+        width: 900px;
+        padding: 70px;
+}
+.card {
+    color: rgb(65, 8, 27);
+    background: rgb(243, 187, 207);
+    border-radius: 20px;
+  }
+  
